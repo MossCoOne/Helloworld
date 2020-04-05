@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photo_of_damage_delete_size">30dp</dimen>
+    <dimen name="gutterSpace">16dp</dimen>
+    <dimen name="photo_of_damage_thumbnail_size">60dp</dimen>
+    <dimen name="gutterSpaceHalf">8dp</dimen>
+    <dimen name="image_size">300dp</dimen>
+</resources>

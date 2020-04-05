@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="click_me">Click me</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="enter_image_title">Enter image title</string>
+    <string name="enter_image_description">Enter image description</string>
+    <string name="save_photo">Save photo</string>
+</resources>
